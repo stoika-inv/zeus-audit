@@ -11,3 +11,4 @@ Active equity strategy — live since 2026-04-16.
 | 2026-04-18 | `4299e4ca` | 4/4 frozen | [drift](2026-04-18_drift_report.json) | [state](2026-04-18_portfolio_state.json) |
 | 2026-04-20 | `08eb86b4` | 4/4 frozen | [drift](2026-04-20_drift_report.json) | [state](2026-04-20_portfolio_state.json) |
 | 2026-04-21 | `9eba0319` | 4/4 frozen | [drift](2026-04-21_drift_report.json) | [state](2026-04-21_portfolio_state.json) |
+| 2026-04-22 | `2cf2c42f` | 4/4 frozen | [drift](2026-04-22_drift_report.json) | [state](2026-04-22_portfolio_state.json) |
