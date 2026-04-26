@@ -1,0 +1,6 @@
+# Hardening — never publish these to public audit repo
+# (they leak ticker lists, indicator references, hypothesis test internals)
+auto_review_zeus_*.md
+weekly-review/
+*.tmp
+*.bak
