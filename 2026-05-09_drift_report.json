@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-05-09T00:31:11",
+  "inception_date": "2026-04-16",
+  "days_live": 23,
+  "years_live": 0.063,
+  "n_open_positions": 10,
+  "n_closed_positions": 1,
+  "zeus": {
+    "total_return_pct": -8.46,
+    "annualized_pct": -75.43
+  },
+  "spy": {
+    "total_return_pct": 5.09,
+    "annualized_pct": 120.16
+  },
+  "alpha": {
+    "total_pp": -13.55,
+    "annualized_pp": -195.58
+  },
+  "backtest_expected": {
+    "zeus_cagr_pct": 26.84,
+    "spy_cagr_pct_19y": 10.54,
+    "alpha_pp_per_year": 16.3,
+    "expected_zeus_total_for_period_pct": 1.51,
+    "expected_alpha_total_for_period_pct": 0.88
+  },
+  "drift": {
+    "annualized_alpha_vs_expected_pp": -211.88,
+    "status": "TOO_EARLY",
+    "thresholds": {
+      "yellow_pp": -5.0,
+      "red_pp": -10.0
+    },
+    "interpretation": "Portfolio trop jeune (23 jours). Besoin >=90 jours pour comparaison significative."
+  },
+  "open_positions": [
+    {
+      "ticker": "NFLX",
+      "entry_date": "2025-11-17",
+      "entry_price": 107.71,
+      "current_price": 87.625,
+      "return_pct": -18.65,
+      "days_held": 173,
+      "weeks_held": 24.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "FAST",
+      "entry_date": "2025-11-24",
+      "entry_price": 44.4,
+      "current_price": 43.9900016784668,
+      "return_pct": -0.92,
+      "days_held": 166,
+      "weeks_held": 23.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "RHM",
+      "entry_date": "2025-11-24",
+      "entry_price": 1794.9322,
+      "current_price": 1218.4000244140623,
+      "return_pct": -32.12,
+      "days_held": 166,
+      "weeks_held": 23.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "INTU",
+      "entry_date": "2026-01-05",
+      "entry_price": 389.72,
+      "current_price": 394.8299865722656,
+      "return_pct": 1.31,
+      "days_held": 124,
+      "weeks_held": 17.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "GRMN",
+      "entry_date": "2026-02-02",
+      "entry_price": 265.84,
+      "current_price": 241.25999450683594,
+      "return_pct": -9.25,
+      "days_held": 96,
+      "weeks_held": 13.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "MRVL",
+      "entry_date": "2026-02-02",
+      "entry_price": 134.6,
+      "current_price": 166.0399932861328,
+      "return_pct": 23.36,
+      "days_held": 96,
+      "weeks_held": 13.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "RMS",
+      "entry_date": "2026-02-09",
+      "entry_price": 1949.9116,
+      "current_price": 1661.0,
+      "return_pct": -14.82,
+      "days_held": 89,
+      "weeks_held": 12.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "SAF",
+      "entry_date": "2026-03-30",
+      "entry_price": 362.8756,
+      "current_price": 286.29998779296875,
+      "return_pct": -21.1,
+      "days_held": 40,
+      "weeks_held": 5.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "VRTX",
+      "entry_date": "2026-03-30",
+      "entry_price": 441.7,
+      "current_price": 428.6300048828125,
+      "return_pct": -2.96,
+      "days_held": 40,
+      "weeks_held": 5.7,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "DAV",
+      "entry_date": "2026-05-04",
+      "entry_price": 296.8,
+      "current_price": 290.0,
+      "return_pct": -2.29,
+      "days_held": 5,
+      "weeks_held": 0.7,
+      "signal": "BUY_pullback_ema50_uptrend",
+      "sector": "Aerospace"
+    }
+  ],
+  "closed_positions": [
+    {
+      "ticker": "GGG",
+      "entry_date": "2026-04-06",
+      "exit_date": "2026-05-04",
+      "entry_price": 85.21,
+      "exit_price": 79.19000244140625,
+      "return_pct": -7.06,
+      "days_held": 28,
+      "exit_reason": null
+    }
+  ],
+  "ytd_2026_context": {
+    "window": "2026-01-05 \u2192 2026-05-09",
+    "source": "BACKTEST_RECONSTRUCTION",
+    "disclaimer": "Backtest trade reconstruction \u2014 survivorship bias applies (pre-2026 period). Not live trading. Contextualises 2026 market regime only.",
+    "zeus_ytd_pct": -2.88,
+    "spy_ytd_pct": 7.23,
+    "alpha_ytd_pp": -10.11,
+    "n_trades_active_in_2026": 6,
+    "cash_drag_note": "4 empty slots counted as 0% (cash) in some weeks"
+  },
+  "max_dd_live": -3.74,
+  "max_dd_live_date": "2026-05-04",
+  "days_since_inception": 23
+}
