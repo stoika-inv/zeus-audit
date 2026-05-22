@@ -1,0 +1,193 @@
+{
+  "generated_at": "2026-05-22T22:08:06",
+  "inception_date": "2026-04-16",
+  "days_live": 36,
+  "years_live": 0.099,
+  "n_open_positions": 10,
+  "n_closed_positions": 3,
+  "zeus": {
+    "total_return_pct": -8.44,
+    "annualized_pct": -59.11
+  },
+  "spy": {
+    "total_return_pct": 6.29,
+    "annualized_pct": 85.68
+  },
+  "alpha": {
+    "total_pp": -14.73,
+    "annualized_pp": -144.79
+  },
+  "backtest_expected": {
+    "zeus_cagr_pct": 26.84,
+    "spy_cagr_pct_19y": 10.54,
+    "alpha_pp_per_year": 16.3,
+    "expected_zeus_total_for_period_pct": 2.37,
+    "expected_alpha_total_for_period_pct": 1.38
+  },
+  "drift": {
+    "annualized_alpha_vs_expected_pp": -161.09,
+    "status": "TOO_EARLY",
+    "thresholds": {
+      "yellow_pp": -5.0,
+      "red_pp": -10.0
+    },
+    "interpretation": "Portfolio trop jeune (36 jours). Besoin >=90 jours pour comparaison significative."
+  },
+  "open_positions": [
+    {
+      "ticker": "FAST",
+      "entry_date": "2025-11-24",
+      "entry_price": 44.4,
+      "current_price": 43.66999816894531,
+      "return_pct": -1.64,
+      "days_held": 179,
+      "weeks_held": 25.6,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "INTU",
+      "entry_date": "2026-01-05",
+      "entry_price": 389.72,
+      "current_price": 310.8299865722656,
+      "return_pct": -20.24,
+      "days_held": 137,
+      "weeks_held": 19.6,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "GRMN",
+      "entry_date": "2026-02-02",
+      "entry_price": 265.84,
+      "current_price": 241.8350067138672,
+      "return_pct": -9.03,
+      "days_held": 109,
+      "weeks_held": 15.6,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "MRVL",
+      "entry_date": "2026-02-02",
+      "entry_price": 134.6,
+      "current_price": 194.4600067138672,
+      "return_pct": 44.47,
+      "days_held": 109,
+      "weeks_held": 15.6,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "RMS",
+      "entry_date": "2026-02-09",
+      "entry_price": 1949.9116,
+      "current_price": 1618.5,
+      "return_pct": -17.0,
+      "days_held": 102,
+      "weeks_held": 14.6,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "SAF",
+      "entry_date": "2026-03-30",
+      "entry_price": 362.8756,
+      "current_price": 285.20001220703125,
+      "return_pct": -21.41,
+      "days_held": 53,
+      "weeks_held": 7.6,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "VRTX",
+      "entry_date": "2026-03-30",
+      "entry_price": 441.7,
+      "current_price": 436.3999938964844,
+      "return_pct": -1.2,
+      "days_held": 53,
+      "weeks_held": 7.6,
+      "signal": null,
+      "sector": null
+    },
+    {
+      "ticker": "DAV",
+      "entry_date": "2026-05-04",
+      "entry_price": 296.8,
+      "current_price": 293.6000061035156,
+      "return_pct": -1.08,
+      "days_held": 18,
+      "weeks_held": 2.6,
+      "signal": "BUY_pullback_ema50_uptrend",
+      "sector": "Aerospace"
+    },
+    {
+      "ticker": "CME",
+      "entry_date": "2026-05-11",
+      "entry_price": 281.25,
+      "current_price": 291.31451416015625,
+      "return_pct": 3.58,
+      "days_held": 11,
+      "weeks_held": 1.6,
+      "signal": "BUY_pullback_ema50_uptrend",
+      "sector": "Financial - Data & Stock Exchanges"
+    },
+    {
+      "ticker": "ORCL",
+      "entry_date": "2026-05-18",
+      "entry_price": 195.95,
+      "current_price": 192.94479370117188,
+      "return_pct": -1.53,
+      "days_held": 4,
+      "weeks_held": 0.6,
+      "signal": "BUY_px_xu_ema50",
+      "sector": "Software - Infrastructure"
+    }
+  ],
+  "closed_positions": [
+    {
+      "ticker": "GGG",
+      "entry_date": "2026-04-06",
+      "exit_date": "2026-05-04",
+      "entry_price": 85.21,
+      "exit_price": 79.19000244140625,
+      "return_pct": -7.06,
+      "days_held": 28,
+      "exit_reason": null
+    },
+    {
+      "ticker": "RHM",
+      "entry_date": "2025-11-24",
+      "exit_date": "2026-05-11",
+      "entry_price": 1794.9322,
+      "exit_price": 1179.5999755859375,
+      "return_pct": -34.28,
+      "days_held": 168,
+      "exit_reason": null
+    },
+    {
+      "ticker": "NFLX",
+      "entry_date": "2025-11-17",
+      "exit_date": "2026-05-18",
+      "entry_price": 107.71,
+      "exit_price": 88.47000122070312,
+      "return_pct": -17.86,
+      "days_held": 182,
+      "exit_reason": null
+    }
+  ],
+  "ytd_2026_context": {
+    "window": "2026-01-05 \u2192 2026-05-22",
+    "source": "BACKTEST_RECONSTRUCTION",
+    "disclaimer": "Backtest trade reconstruction \u2014 survivorship bias applies (pre-2026 period). Not live trading. Contextualises 2026 market regime only.",
+    "zeus_ytd_pct": -2.88,
+    "spy_ytd_pct": 8.44,
+    "alpha_ytd_pp": -11.32,
+    "n_trades_active_in_2026": 6,
+    "cash_drag_note": "4 empty slots counted as 0% (cash) in some weeks"
+  },
+  "max_dd_live": -6.05,
+  "max_dd_live_date": "2026-05-11",
+  "days_since_inception": 36
+}
