@@ -76,3 +76,4 @@ Educational analytics tool. **Not investment advice.** Past performance does not
 | 2026-05-28 | `7beed562` | 4/4 frozen | [drift](2026-05-28_drift_report.json) | [state](2026-05-28_portfolio_state.json) |
 | 2026-05-30 | `7beed562` | 4/4 frozen | [drift](2026-05-30_drift_report.json) | [state](2026-05-30_portfolio_state.json) |
 | 2026-05-31 | `5c4b7948` | 4/4 frozen | [drift](2026-05-31_drift_report.json) | [state](2026-05-31_portfolio_state.json) |
+| 2026-06-01 | `e82a043a` | 4/4 frozen | [drift](2026-06-01_drift_report.json) | [state](2026-06-01_portfolio_state.json) |
