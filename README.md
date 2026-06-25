@@ -92,3 +92,4 @@ Educational analytics tool. **Not investment advice.** Past performance does not
 | 2026-06-22 | `ac53105c` | 4/4 frozen | [drift](2026-06-22_drift_report.json) | [state](2026-06-22_portfolio_state.json) |
 | 2026-06-23 | `a1f315e1` | 4/4 frozen | [drift](2026-06-23_drift_report.json) | [state](2026-06-23_portfolio_state.json) |
 | 2026-06-24 | `4e822e98` | 4/4 frozen | [drift](2026-06-24_drift_report.json) | [state](2026-06-24_portfolio_state.json) |
+| 2026-06-25 | `ce388a03` | 4/4 frozen | [drift](2026-06-25_drift_report.json) | [state](2026-06-25_portfolio_state.json) |
