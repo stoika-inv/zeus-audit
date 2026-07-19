@@ -1,0 +1,93 @@
+{
+  "created": "2026-04-16",
+  "updated": "2026-07-19",
+  "initial_capital": 10000.0,
+  "open_positions_count": 10,
+  "open_positions_note": "Tickers and signals are Pro+ only",
+  "closed_trades": [
+    {
+      "ticker": "GGG",
+      "entry_date": "2026-04-06",
+      "entry_price": 85.21,
+      "shares": 11.735712,
+      "initial_value_usd": 1000.0,
+      "weeks_held_at_reset": 0,
+      "exit_date": "2026-05-04",
+      "exit_price": 79.19000244140625,
+      "weeks_held": 4,
+      "pnl_pct": -7.06,
+      "reason": "zeus_sell (SELL_ichi_kumo_breakdown)"
+    },
+    {
+      "ticker": "RHM",
+      "entry_date": "2025-11-24",
+      "entry_price": 1794.9322,
+      "shares": 0.557124,
+      "initial_value_usd": 1000.0,
+      "weeks_held_at_reset": 19,
+      "slot": 3,
+      "exit_date": "2026-05-11",
+      "exit_price": 1179.5999755859375,
+      "weeks_held": 24,
+      "pnl_pct": -34.28,
+      "reason": "zeus_sell (SELL_ichi_kumo_breakdown)"
+    },
+    {
+      "ticker": "NFLX",
+      "entry_date": "2025-11-17",
+      "entry_price": 107.71,
+      "shares": 9.284189,
+      "initial_value_usd": 1000.0,
+      "weeks_held_at_reset": 20,
+      "slot": 1,
+      "exit_date": "2026-05-18",
+      "exit_price": 88.47000122070312,
+      "weeks_held": 26,
+      "pnl_pct": -17.86,
+      "reason": "time_exit"
+    },
+    {
+      "ticker": "FAST",
+      "entry_date": "2025-11-24",
+      "entry_price": 44.4,
+      "shares": 22.522523,
+      "initial_value_usd": 1000.0,
+      "weeks_held_at_reset": 19,
+      "slot": 1,
+      "exit_date": "2026-05-25",
+      "exit_price": 43.939998626708984,
+      "weeks_held": 26,
+      "pnl_pct": -1.04,
+      "reason": "time_exit"
+    },
+    {
+      "ticker": "ORCL",
+      "entry_date": "2026-05-18",
+      "entry_price": 195.95,
+      "signal": "BUY_px_xu_ema50",
+      "sector": "Software - Infrastructure",
+      "slot": 9,
+      "exit_date": "2026-06-15",
+      "exit_price": 193.13999938964844,
+      "weeks_held": 4,
+      "pnl_pct": -1.43,
+      "reason": "zeus_sell (SELL_ichi_kumo_breakdown)"
+    },
+    {
+      "ticker": "INTU",
+      "entry_date": "2026-01-05",
+      "entry_price": 389.72,
+      "shares": 2.565945,
+      "initial_value_usd": 1000.0,
+      "weeks_held_at_reset": 13,
+      "slot": 1,
+      "exit_date": "2026-07-06",
+      "exit_price": 275.3500061035156,
+      "weeks_held": 26,
+      "pnl_pct": -29.35,
+      "reason": "time_exit"
+    }
+  ],
+  "closed_trades_count": 6,
+  "generated_at": "2026-07-19"
+}
